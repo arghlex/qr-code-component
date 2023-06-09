@@ -1,6 +1,6 @@
 # QR Code Component
 
-A (frontendmentor.io)[https://www.frontendmentor.io?ref=challenge] challenge.
+A [frontendmentor.io](https://www.frontendmentor.io?ref=challenge) challenge.
 
 ## Build
 
